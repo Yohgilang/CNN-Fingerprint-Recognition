@@ -7,5 +7,5 @@
 - 0 --> left_or_right_hand (left 0, right 1)
 - 1 --> finger index (0-4)
 
-Dataset
+Dataset:
 https://www.kaggle.com/ruizgara/socofing/home
