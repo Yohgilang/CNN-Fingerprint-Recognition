@@ -1,4 +1,4 @@
-# CNN-Fingerprint-Recognation
+# CNN-Fingerprint-Recognition
 
 - Convolutional Neural Network (CNN) merupakan salah satu jenis neural network yang biasa digunakan pada data image. CNN bisa digunakan untuk mendeteksi dan mengenali object pada sebuah image. Secara garis besarnya, CNN memanfaatkan proses konvolusi dengan menggerakan sebuah kernel konvolusi (filter) berukuran tertentu ke sebuah gambar, komputer mendapatkan informasi representatif baru dari hasil perkalian bagian gambar tersebut dengan filter yang digunakan.
 - Pengenalan sidik jari merupakan bagian dari teknologi biometrik yang masih digunakan sampai saat ini untuk mengidentifikasi karakteristik unik pada diri manusia. Sidik jari digunakan untuk keperluan pengenalan kembali identitas orang dengan cara mengamati garis yang terdapat pada guratan garis jari tangan atau telapak kaki.
