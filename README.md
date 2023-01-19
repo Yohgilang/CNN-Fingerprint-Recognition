@@ -1,11 +1,14 @@
 # CNN-Fingerprint-Recognation
 
+![2](https://user-images.githubusercontent.com/93894711/213533761-d9b54e07-9356-43bb-bf0e-8bde52ddf710.jpg)
+
 [100 0 0 1]
 
 - 100 --> subject ID
 - 0 --> gender (male 0, female 1)
 - 0 --> left_or_right_hand (left 0, right 1)
 - 1 --> finger index (0-4)
+
 
 ![1](https://user-images.githubusercontent.com/93894711/213533408-19de2151-9d2c-40df-bd50-4c6b5243530a.jpg)
 
